@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    background-size: cover;
+    font-family: Bitstream Vera Sans Mono;
+    font-weight: bolder;
+}
+
+.btn-info {
+    visibility: hidden;
+}
+
+.heading{
+    width: 100%;
+    font-size: large;
+    text-align: left;
+}
+
+.heading h3 {
+ display: inline;
+}
+
+.heading button {
+    float: right;
+}
+
+
+
+#status {
+    font-size: 25px;
+}
+
+.mario-footer {
+    bottom: 0;
+    position: fixed;
+    background-color: lightslategray;
+    width: 100%;
+    line-height: 1;
+    top: 10;
+}
+
+canvas {
+    border-color: white;
+    border-width: 10px;
+    border-style: double;
+}
+
+.modal-dialog {
+    width: 70%;
+}
+
+.close {
+    color: red;
+    font-weight: bolder;
+}
+
+.btn-success {
+    font-size: 20px;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
+
+#cam {
+    float: left;
+    margin-left: 20px;
+}
